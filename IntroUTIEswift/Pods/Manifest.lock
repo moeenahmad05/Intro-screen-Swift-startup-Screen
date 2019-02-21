@@ -1,0 +1,16 @@
+PODS:
+  - IntroScreen (1.0.7)
+
+DEPENDENCIES:
+  - IntroScreen
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IntroScreen
+
+SPEC CHECKSUMS:
+  IntroScreen: 23f9ea336f436485cb611a3821fc9cacbc73509e
+
+PODFILE CHECKSUM: 3f543bb28946cab211445a8a586c5125b50f44a1
+
+COCOAPODS: 1.6.0
